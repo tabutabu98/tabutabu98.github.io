@@ -27,9 +27,9 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
+    email: songyechan.kr@gmail.com
     github: tabutabu98
-    # email:           <mail@domain.tld>
-    # rss:             https://<url>/feed.xml
+    rss: https://tabutabu98.github.io/
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
