@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /about/
+  - title: About
+    url: /about/
   - title: Example
     url: /example/
   - title: Documentation

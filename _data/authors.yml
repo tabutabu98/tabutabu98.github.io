@@ -2,13 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: TabuTabu98
+  name: 송예찬(tabutabu98)
   email: songyechan.kr@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    잡부 개발자의 블로그
+    어찌됐든 풀스택 주니어 개발자
+    
+    기술스택: Java, Spring, Javascript, HTML, CSS, MariaDB
 
   # This photo will be used in the about section
   picture:
