@@ -273,6 +273,8 @@ hydejack:
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
+    sunrise: true
+    sunset: 18
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
